@@ -1,0 +1,230 @@
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.pdb
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\Shapito\Desktop\Diplom\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\Shapito\Desktop\Anna\AnnaCherchel\AnnaCherchel\obj\Debug\AnnaCherchel.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\me\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\КУРСАЧИ!1\17-11-2023_14-20-32\КП1\ВОТ\AnnaCherchel\obj\Debug\AnnaCherchel.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\AnnaCherchel.exe.config
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\AnnaCherchel.pdb
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\EntityFramework.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\EntityFramework.xml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.AssemblyReference.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AdminWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\MainWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\User\Doc.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\User\DocComp.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\UserWindow.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\App.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel_Content.g.cs
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel_MarkupCompile.lref
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AdminWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\MainWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\AddEdit1.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\DocAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\Admin\DocCompAdmin.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\User\Doc.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\Tables\User\DocComp.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\UserWindow.baml
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.g.resources
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.Properties.Resources.resources
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.GenerateResource.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CoreCompileInputs.cache
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.csproj.CopyComplete
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.exe
+C:\Users\zvere\OneDrive\Рабочий стол\курсач\курс\AnnaCherchel\obj\Debug\AnnaCherchel.pdb

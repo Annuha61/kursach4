@@ -1,0 +1,30 @@
+﻿<Window x:Class="AnnaCherchel.UserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AnnaCherchel"
+        mc:Ignorable="d"
+        Title="Archive" Height="450" Width="800" WindowState="Maximized" ResizeMode="NoResize">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush TileMode="None" Stretch="Fill" ImageSource="Resources/fonnn.jpg"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Background="#FF2E2E2E" Opacity="0.8">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Name="Doc" Background="#FF494848" Foreground="White" Content="Actual documents" Click="Doc_Click" Grid.Row="0" Grid.Column="0" Margin="0 0 10 0" Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Sitka Heading"/>
+            <Button Name="Doc2" Background="#FF494848" Foreground="White" Content="Typewritten documents" Click="Doc2_Click" Grid.Row="1" Margin="0 0 10 0" Grid.Column="0"  Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Sitka Heading"/>
+            <Button Name="Exit" Background="#FF494848" Foreground="White" Content="Exit" Click="Exit_Click" Grid.Row="3" Grid.Column="0" Margin="0 0 10 0" Height="50" Width="270" FontSize="20" FontWeight="DemiBold" VerticalAlignment="Center" HorizontalAlignment="Left" FontFamily="Sitka Heading"/>
+        </Grid>
+        <Frame x:Name="MainFrame" Background="#FF0C0C0C" Opacity="0.8" BorderBrush="Black" BorderThickness="2.5" NavigationUIVisibility="Hidden" Grid.Column="1"/>
+    </Grid>
+</Window>
